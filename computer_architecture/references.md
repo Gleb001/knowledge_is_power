@@ -5,3 +5,4 @@
 4. https://www.tutorialspoint.com/demultiplexers-and-their-applications.
 5. https://studopedia.ru/20_99604_deshifrator-koda-operatsii.html.
 6. https://studfile.net/preview/5760138/page:9/.
+7. https://digteh.ru/CVT/dc.php.

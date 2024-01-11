@@ -7,4 +7,5 @@
 
 Комбинаторные схемы:
 * [мультиплексор](./digital_logic_layer/combinatorial_circuits/multiplexer.md);
-* [демультиплексор](./digital_logic_layer/combinatorial_circuits/demultiplexer.md).
+* [демультиплексор](./digital_logic_layer/combinatorial_circuits/demultiplexer.md);
+* [дешифратор (декодер)](./digital_logic_layer/combinatorial_circuits/decoder.md).
